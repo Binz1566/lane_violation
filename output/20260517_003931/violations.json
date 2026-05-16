@@ -1,0 +1,55 @@
+{
+  "generated_at": "2026-05-17T00:39:32",
+  "total_frames": 1,
+  "total_violations": 4,
+  "violations": [
+    {
+      "frame": 0,
+      "object_id": 0,
+      "vehicle_type": "car",
+      "lane": "motor_lane",
+      "bbox": [
+        512,
+        345,
+        617,
+        431
+      ]
+    },
+    {
+      "frame": 0,
+      "object_id": 6,
+      "vehicle_type": "car",
+      "lane": "motor_lane",
+      "bbox": [
+        483,
+        295,
+        583,
+        370
+      ]
+    },
+    {
+      "frame": 0,
+      "object_id": 6,
+      "vehicle_type": "car",
+      "lane": "motor_lane",
+      "bbox": [
+        471,
+        270,
+        562,
+        347
+      ]
+    },
+    {
+      "frame": 0,
+      "object_id": 18,
+      "vehicle_type": "motorcycle",
+      "lane": "car_lane",
+      "bbox": [
+        414,
+        165,
+        439,
+        201
+      ]
+    }
+  ]
+}

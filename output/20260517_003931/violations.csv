@@ -1,0 +1,5 @@
+frame,object_id,vehicle_type,lane,x1,y1,x2,y2
+0,0,car,motor_lane,512,345,617,431
+0,6,car,motor_lane,483,295,583,370
+0,6,car,motor_lane,471,270,562,347
+0,18,motorcycle,car_lane,414,165,439,201

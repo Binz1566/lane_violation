@@ -9,3 +9,4 @@ LANE_CAR = [[0, 0], [640, 0], [640, 300], [0, 300]]
 
 VIDEO_PATH = "traffic.mp4"
 MODEL_PATH = "yolov8s.pt"
+OUTPUT_DIR = "output"
